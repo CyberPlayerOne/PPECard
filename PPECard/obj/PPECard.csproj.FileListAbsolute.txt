@@ -1,0 +1,62 @@
+F:\My Projects\C# Projects\PPECard\PPECard\obj\Debug\ResolveAssemblyReference.cache
+F:\My Projects\C# Projects\PPECard\PPECard\obj\Debug\PPECard.Form1.resources
+F:\My Projects\C# Projects\PPECard\PPECard\obj\Debug\PPECard.Properties.Resources.resources
+F:\My Projects\C# Projects\PPECard\PPECard\obj\Debug\PPECard.csproj.GenerateResource.Cache
+F:\My Projects\C# Projects\PPECard\PPECard\bin\Debug\PPECard.exe
+F:\My Projects\C# Projects\PPECard\PPECard\bin\Debug\PPECard.pdb
+F:\My Projects\C# Projects\PPECard\PPECard\obj\Debug\PPECard.exe
+F:\My Projects\C# Projects\PPECard\PPECard\obj\Debug\PPECard.pdb
+L:\recent proj\C#\PPECard\PPECard\obj\Debug\PPECard.exe
+L:\recent proj\C#\PPECard\PPECard\obj\Debug\PPECard.pdb
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.exe
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.pdb
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\bin\Debug\PPECard.exe
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\bin\Debug\PPECard.pdb
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\obj\Debug\ResolveAssemblyReference.cache
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.AboutForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.CardForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\obj\Debug\CustomUIControls.TaskbarNotifier.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.Wizard.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.MainForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.DisplayCardForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.Properties.Resources.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.csproj.GenerateResource.Cache
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.exe
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.pdb
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\bin\Debug\PPECard.exe
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\bin\Debug\PPECard.pdb
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\obj\Debug\ResolveAssemblyReference.cache
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.AboutForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.CardForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\obj\Debug\CustomUIControls.TaskbarNotifier.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.Wizard.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.MainForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.DisplayCardForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.Properties.Resources.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1\PPECard_1144 2008-5-25\PPECard\obj\Debug\PPECard.csproj.GenerateResource.Cache
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.exe
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.pdb
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\bin\Debug\PPECard.exe
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\bin\Debug\PPECard.pdb
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\obj\Debug\ResolveAssemblyReference.cache
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.AboutForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.CardForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\obj\Debug\CustomUIControls.TaskbarNotifier.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.Wizard.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.MainForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.DisplayCardForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.Properties.Resources.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.csproj.GenerateResource.Cache
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.exe
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.pdb
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\obj\Debug\ResolveAssemblyReference.cache
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.AboutForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.CardForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\obj\Debug\CustomUIControls.TaskbarNotifier.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.Wizard.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.MainForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.DisplayCardForm.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.Properties.Resources.resources
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\obj\Debug\PPECard.csproj.GenerateResource.Cache
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\bin\Debug\PPECard.exe
+F:\b.毕业设计\PPECard备份\PPECard_1144 2008-5-25_1AtApartment\复件 已改正发送错误，但Wizard功能未实现 PPECard_2057 2008-5-28\PPECard\bin\Debug\PPECard.pdb

@@ -1,0 +1,13 @@
+obj\Debug\PPECard.exe
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PPECard.Properties.Resources.resources
+obj\Debug\PPECard.csproj.GenerateResource.Cache
+bin\Debug\PPECard.exe
+bin\Debug\PPECard.pdb
+obj\Debug\PPECard.pdb
+obj\Debug\PPECard.MainForm.resources
+obj\Debug\PPECard.DisplayCardForm.resources
+obj\Debug\PPECard.CardForm.resources
+obj\Debug\PPECard.Wizard.resources
+obj\Debug\PPECard.AboutForm.resources
+obj\Debug\CustomUIControls.TaskbarNotifier.resources
